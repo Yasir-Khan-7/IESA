@@ -1,0 +1,36 @@
+2025-06-10 23:28:57,372 - iesa_login - INFO - IESA Login page initialized
+2025-06-10 23:30:29,596 - iesa_login - INFO - IESA Login page initialized
+2025-06-10 23:30:29,596 - iesa_login - INFO - IESA Login page initialized
+2025-06-10 23:30:36,870 - iesa_login - INFO - IESA Login page initialized
+2025-06-10 23:30:36,870 - iesa_login - INFO - IESA Login page initialized
+2025-06-10 23:30:36,870 - iesa_login - INFO - IESA Login page initialized
+2025-06-10 23:30:41,822 - iesa_login - INFO - IESA Login page initialized
+2025-06-10 23:30:41,822 - iesa_login - INFO - IESA Login page initialized
+2025-06-10 23:30:41,822 - iesa_login - INFO - IESA Login page initialized
+2025-06-10 23:30:41,822 - iesa_login - INFO - IESA Login page initialized
+2025-06-10 23:30:41,848 - iesa_login - INFO - Login attempt for username: energyplanner@iesa
+2025-06-10 23:30:41,848 - iesa_login - INFO - Login attempt for username: energyplanner@iesa
+2025-06-10 23:30:41,848 - iesa_login - INFO - Login attempt for username: energyplanner@iesa
+2025-06-10 23:30:41,848 - iesa_login - INFO - Login attempt for username: energyplanner@iesa
+2025-06-10 23:30:41,979 - iesa_login - INFO - Successful login for user: energyplanner@iesa
+2025-06-10 23:30:41,979 - iesa_login - INFO - Successful login for user: energyplanner@iesa
+2025-06-10 23:30:41,979 - iesa_login - INFO - Successful login for user: energyplanner@iesa
+2025-06-10 23:30:41,979 - iesa_login - INFO - Successful login for user: energyplanner@iesa
+2025-06-10 23:30:41,982 - iesa_login - INFO - Redirecting user energyplanner@iesa to data planner page
+2025-06-10 23:30:41,982 - iesa_login - INFO - Redirecting user energyplanner@iesa to data planner page
+2025-06-10 23:30:41,982 - iesa_login - INFO - Redirecting user energyplanner@iesa to data planner page
+2025-06-10 23:30:41,982 - iesa_login - INFO - Redirecting user energyplanner@iesa to data planner page
+2025-06-10 23:34:32,655 - iesa_dashboard - INFO - IESA Dashboard page initialized
+2025-06-10 23:34:43,546 - iesa_dashboard - INFO - IESA Dashboard page initialized
+2025-06-10 23:34:43,546 - iesa_dashboard - INFO - IESA Dashboard page initialized
+2025-06-10 23:42:35,550 - iesa_dashboard - INFO - IESA Dashboard page initialized
+2025-06-10 23:42:35,550 - iesa_dashboard - INFO - IESA Dashboard page initialized
+2025-06-10 23:42:35,550 - iesa_dashboard - INFO - IESA Dashboard page initialized
+2025-06-10 23:42:35,553 - iesa_dashboard - INFO - Navigating to Data Planner page
+2025-06-10 23:42:35,553 - iesa_dashboard - INFO - Navigating to Data Planner page
+2025-06-10 23:42:35,553 - iesa_dashboard - INFO - Navigating to Data Planner page
+2025-06-10 23:42:42,709 - iesa_data_planner - INFO - IESA Data Planner page initialized
+2025-06-10 23:56:44,633 - iesa_data_planner - INFO - IESA Data Planner page loaded
+2025-06-10 23:56:44,633 - iesa_data_planner - INFO - IESA Data Planner page loaded
+2025-06-10 23:56:44,646 - iesa_data_planner - INFO - User navigated to Scenario Analysis page from Data Planner
+2025-06-10 23:56:44,646 - iesa_data_planner - INFO - User navigated to Scenario Analysis page from Data Planner

@@ -1,0 +1,975 @@
+2025-10-08 10:38:19,622 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:38:20,575 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:38:20,585 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:38:44,621 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:38:44,621 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:38:44,845 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:38:44,845 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:38:44,854 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:38:44,854 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:39:08,631 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:39:08,631 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:39:08,631 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:39:08,651 - iesa_personalized_recommendations - INFO - Sidebar button clicked: View Data for table annual_electricity_data
+2025-10-08 10:39:08,651 - iesa_personalized_recommendations - INFO - Sidebar button clicked: View Data for table annual_electricity_data
+2025-10-08 10:39:08,651 - iesa_personalized_recommendations - INFO - Sidebar button clicked: View Data for table annual_electricity_data
+2025-10-08 10:39:11,525 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:39:11,525 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:39:11,525 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:39:11,525 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:39:11,557 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:39:11,557 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:39:11,557 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:39:11,557 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:39:11,570 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:39:11,570 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:39:11,570 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:39:11,570 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:39:21,078 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:39:21,078 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:39:21,078 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:39:21,078 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:39:21,078 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:39:21,101 - iesa_personalized_recommendations - INFO - Sidebar button clicked: Analyze Trends for table annual_electricity_data
+2025-10-08 10:39:21,101 - iesa_personalized_recommendations - INFO - Sidebar button clicked: Analyze Trends for table annual_electricity_data
+2025-10-08 10:39:21,101 - iesa_personalized_recommendations - INFO - Sidebar button clicked: Analyze Trends for table annual_electricity_data
+2025-10-08 10:39:21,101 - iesa_personalized_recommendations - INFO - Sidebar button clicked: Analyze Trends for table annual_electricity_data
+2025-10-08 10:39:21,101 - iesa_personalized_recommendations - INFO - Sidebar button clicked: Analyze Trends for table annual_electricity_data
+2025-10-08 10:39:25,353 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:39:25,353 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:39:25,353 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:39:25,353 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:39:25,353 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:39:25,353 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:39:25,383 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:39:25,383 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:39:25,383 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:39:25,383 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:39:25,383 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:39:25,383 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:39:25,396 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:39:25,396 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:39:25,396 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:39:25,396 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:39:25,396 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:39:25,396 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:39:36,839 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:39:36,839 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:39:36,839 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:39:36,839 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:39:36,839 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:39:36,839 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:39:36,839 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:39:36,860 - iesa_personalized_recommendations - INFO - Sidebar button clicked: Generate Report for table annual_electricity_data
+2025-10-08 10:39:36,860 - iesa_personalized_recommendations - INFO - Sidebar button clicked: Generate Report for table annual_electricity_data
+2025-10-08 10:39:36,860 - iesa_personalized_recommendations - INFO - Sidebar button clicked: Generate Report for table annual_electricity_data
+2025-10-08 10:39:36,860 - iesa_personalized_recommendations - INFO - Sidebar button clicked: Generate Report for table annual_electricity_data
+2025-10-08 10:39:36,860 - iesa_personalized_recommendations - INFO - Sidebar button clicked: Generate Report for table annual_electricity_data
+2025-10-08 10:39:36,860 - iesa_personalized_recommendations - INFO - Sidebar button clicked: Generate Report for table annual_electricity_data
+2025-10-08 10:39:36,860 - iesa_personalized_recommendations - INFO - Sidebar button clicked: Generate Report for table annual_electricity_data
+2025-10-08 10:39:58,557 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:39:58,557 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:39:58,557 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:39:58,557 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:39:58,557 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:39:58,557 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:39:58,557 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:39:58,557 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:39:58,589 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:39:58,589 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:39:58,589 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:39:58,589 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:39:58,589 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:39:58,589 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:39:58,589 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:39:58,589 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:39:58,602 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:39:58,602 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:39:58,602 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:39:58,602 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:39:58,602 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:39:58,602 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:39:58,602 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:39:58,602 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:40:43,685 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:40:43,685 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:40:43,685 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:40:43,685 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:40:43,685 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:40:43,685 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:40:43,685 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:40:43,685 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:40:43,685 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:40:43,725 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:40:43,725 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:40:43,725 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:40:43,725 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:40:43,725 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:40:43,725 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:40:43,725 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:40:43,725 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:40:43,725 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:40:43,744 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:40:43,744 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:40:43,744 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:40:43,744 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:40:43,744 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:40:43,744 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:40:43,744 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:40:43,744 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:40:43,744 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:40:43,748 - iesa_personalized_recommendations - INFO - Generate Recommendation for scenario: Future Electricity Demand Growth
+2025-10-08 10:40:43,748 - iesa_personalized_recommendations - INFO - Generate Recommendation for scenario: Future Electricity Demand Growth
+2025-10-08 10:40:43,748 - iesa_personalized_recommendations - INFO - Generate Recommendation for scenario: Future Electricity Demand Growth
+2025-10-08 10:40:43,748 - iesa_personalized_recommendations - INFO - Generate Recommendation for scenario: Future Electricity Demand Growth
+2025-10-08 10:40:43,748 - iesa_personalized_recommendations - INFO - Generate Recommendation for scenario: Future Electricity Demand Growth
+2025-10-08 10:40:43,748 - iesa_personalized_recommendations - INFO - Generate Recommendation for scenario: Future Electricity Demand Growth
+2025-10-08 10:40:43,748 - iesa_personalized_recommendations - INFO - Generate Recommendation for scenario: Future Electricity Demand Growth
+2025-10-08 10:40:43,748 - iesa_personalized_recommendations - INFO - Generate Recommendation for scenario: Future Electricity Demand Growth
+2025-10-08 10:40:43,748 - iesa_personalized_recommendations - INFO - Generate Recommendation for scenario: Future Electricity Demand Growth
+2025-10-08 10:40:47,331 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:40:47,331 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:40:47,331 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:40:47,331 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:40:47,331 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:40:47,331 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:40:47,331 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:40:47,331 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:40:47,331 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:40:47,331 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:40:47,372 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:40:47,372 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:40:47,372 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:40:47,372 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:40:47,372 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:40:47,372 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:40:47,372 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:40:47,372 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:40:47,372 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:40:47,372 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:40:47,387 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:40:47,387 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:40:47,387 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:40:47,387 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:40:47,387 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:40:47,387 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:40:47,387 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:40:47,387 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:40:47,387 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:40:47,387 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:41:01,047 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:41:01,047 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:41:01,047 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:41:01,047 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:41:01,047 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:41:01,047 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:41:01,047 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:41:01,047 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:41:01,047 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:41:01,047 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:41:01,047 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:41:01,085 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:41:01,085 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:41:01,085 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:41:01,085 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:41:01,085 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:41:01,085 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:41:01,085 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:41:01,085 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:41:01,085 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:41:01,085 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:41:01,085 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:41:01,103 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:41:01,103 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:41:01,103 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:41:01,103 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:41:01,103 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:41:01,103 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:41:01,103 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:41:01,103 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:41:01,103 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:41:01,103 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:41:01,103 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:41:01,107 - iesa_personalized_recommendations - INFO - Analyze Trends for scenario: Future Electricity Demand Growth
+2025-10-08 10:41:01,107 - iesa_personalized_recommendations - INFO - Analyze Trends for scenario: Future Electricity Demand Growth
+2025-10-08 10:41:01,107 - iesa_personalized_recommendations - INFO - Analyze Trends for scenario: Future Electricity Demand Growth
+2025-10-08 10:41:01,107 - iesa_personalized_recommendations - INFO - Analyze Trends for scenario: Future Electricity Demand Growth
+2025-10-08 10:41:01,107 - iesa_personalized_recommendations - INFO - Analyze Trends for scenario: Future Electricity Demand Growth
+2025-10-08 10:41:01,107 - iesa_personalized_recommendations - INFO - Analyze Trends for scenario: Future Electricity Demand Growth
+2025-10-08 10:41:01,107 - iesa_personalized_recommendations - INFO - Analyze Trends for scenario: Future Electricity Demand Growth
+2025-10-08 10:41:01,107 - iesa_personalized_recommendations - INFO - Analyze Trends for scenario: Future Electricity Demand Growth
+2025-10-08 10:41:01,107 - iesa_personalized_recommendations - INFO - Analyze Trends for scenario: Future Electricity Demand Growth
+2025-10-08 10:41:01,107 - iesa_personalized_recommendations - INFO - Analyze Trends for scenario: Future Electricity Demand Growth
+2025-10-08 10:41:01,107 - iesa_personalized_recommendations - INFO - Analyze Trends for scenario: Future Electricity Demand Growth
+2025-10-08 10:41:18,742 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:41:18,742 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:41:18,742 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:41:18,742 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:41:18,742 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:41:18,742 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:41:18,742 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:41:18,742 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:41:18,742 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:41:18,742 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:41:18,742 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:41:18,742 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:41:18,780 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:41:18,780 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:41:18,780 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:41:18,780 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:41:18,780 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:41:18,780 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:41:18,780 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:41:18,780 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:41:18,780 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:41:18,780 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:41:18,780 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:41:18,780 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:41:18,795 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:41:18,795 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:41:18,795 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:41:18,795 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:41:18,795 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:41:18,795 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:41:18,795 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:41:18,795 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:41:18,795 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:41:18,795 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:41:18,795 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:41:18,795 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:41:54,131 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:41:54,131 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:41:54,131 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:41:54,131 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:41:54,131 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:41:54,131 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:41:54,131 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:41:54,131 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:41:54,131 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:41:54,131 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:41:54,131 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:41:54,131 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:41:54,131 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:41:54,158 - iesa_personalized_recommendations - INFO - User sent chat message: what is time right now
+2025-10-08 10:41:54,158 - iesa_personalized_recommendations - INFO - User sent chat message: what is time right now
+2025-10-08 10:41:54,158 - iesa_personalized_recommendations - INFO - User sent chat message: what is time right now
+2025-10-08 10:41:54,158 - iesa_personalized_recommendations - INFO - User sent chat message: what is time right now
+2025-10-08 10:41:54,158 - iesa_personalized_recommendations - INFO - User sent chat message: what is time right now
+2025-10-08 10:41:54,158 - iesa_personalized_recommendations - INFO - User sent chat message: what is time right now
+2025-10-08 10:41:54,158 - iesa_personalized_recommendations - INFO - User sent chat message: what is time right now
+2025-10-08 10:41:54,158 - iesa_personalized_recommendations - INFO - User sent chat message: what is time right now
+2025-10-08 10:41:54,158 - iesa_personalized_recommendations - INFO - User sent chat message: what is time right now
+2025-10-08 10:41:54,158 - iesa_personalized_recommendations - INFO - User sent chat message: what is time right now
+2025-10-08 10:41:54,158 - iesa_personalized_recommendations - INFO - User sent chat message: what is time right now
+2025-10-08 10:41:54,158 - iesa_personalized_recommendations - INFO - User sent chat message: what is time right now
+2025-10-08 10:41:54,158 - iesa_personalized_recommendations - INFO - User sent chat message: what is time right now
+2025-10-08 10:41:56,272 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:41:56,272 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:41:56,272 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:41:56,272 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:41:56,272 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:41:56,272 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:41:56,272 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:41:56,272 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:41:56,272 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:41:56,272 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:41:56,272 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:41:56,272 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:41:56,272 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:41:56,272 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:41:56,308 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:41:56,308 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:41:56,308 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:41:56,308 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:41:56,308 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:41:56,308 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:41:56,308 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:41:56,308 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:41:56,308 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:41:56,308 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:41:56,308 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:41:56,308 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:41:56,308 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:41:56,308 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:41:56,325 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:41:56,325 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:41:56,325 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:41:56,325 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:41:56,325 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:41:56,325 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:41:56,325 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:41:56,325 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:41:56,325 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:41:56,325 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:41:56,325 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:41:56,325 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:41:56,325 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:41:56,325 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:43:42,153 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:43:42,153 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:43:42,153 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:43:42,153 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:43:42,153 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:43:42,153 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:43:42,153 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:43:42,153 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:43:42,153 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:43:42,153 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:43:42,153 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:43:42,153 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:43:42,153 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:43:42,153 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:43:42,153 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:43:42,190 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:43:42,190 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:43:42,190 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:43:42,190 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:43:42,190 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:43:42,190 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:43:42,190 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:43:42,190 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:43:42,190 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:43:42,190 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:43:42,190 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:43:42,190 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:43:42,190 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:43:42,190 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:43:42,190 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:43:42,211 - iesa_personalized_recommendations - INFO - Scenario selected: Power Shortage Risk
+2025-10-08 10:43:42,211 - iesa_personalized_recommendations - INFO - Scenario selected: Power Shortage Risk
+2025-10-08 10:43:42,211 - iesa_personalized_recommendations - INFO - Scenario selected: Power Shortage Risk
+2025-10-08 10:43:42,211 - iesa_personalized_recommendations - INFO - Scenario selected: Power Shortage Risk
+2025-10-08 10:43:42,211 - iesa_personalized_recommendations - INFO - Scenario selected: Power Shortage Risk
+2025-10-08 10:43:42,211 - iesa_personalized_recommendations - INFO - Scenario selected: Power Shortage Risk
+2025-10-08 10:43:42,211 - iesa_personalized_recommendations - INFO - Scenario selected: Power Shortage Risk
+2025-10-08 10:43:42,211 - iesa_personalized_recommendations - INFO - Scenario selected: Power Shortage Risk
+2025-10-08 10:43:42,211 - iesa_personalized_recommendations - INFO - Scenario selected: Power Shortage Risk
+2025-10-08 10:43:42,211 - iesa_personalized_recommendations - INFO - Scenario selected: Power Shortage Risk
+2025-10-08 10:43:42,211 - iesa_personalized_recommendations - INFO - Scenario selected: Power Shortage Risk
+2025-10-08 10:43:42,211 - iesa_personalized_recommendations - INFO - Scenario selected: Power Shortage Risk
+2025-10-08 10:43:42,211 - iesa_personalized_recommendations - INFO - Scenario selected: Power Shortage Risk
+2025-10-08 10:43:42,211 - iesa_personalized_recommendations - INFO - Scenario selected: Power Shortage Risk
+2025-10-08 10:43:42,211 - iesa_personalized_recommendations - INFO - Scenario selected: Power Shortage Risk
+2025-10-08 10:43:45,675 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:43:45,675 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:43:45,675 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:43:45,675 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:43:45,675 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:43:45,675 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:43:45,675 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:43:45,675 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:43:45,675 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:43:45,675 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:43:45,675 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:43:45,675 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:43:45,675 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:43:45,675 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:43:45,675 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:43:45,675 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:43:45,715 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:43:45,715 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:43:45,715 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:43:45,715 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:43:45,715 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:43:45,715 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:43:45,715 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:43:45,715 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:43:45,715 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:43:45,715 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:43:45,715 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:43:45,715 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:43:45,715 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:43:45,715 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:43:45,715 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:43:45,715 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:43:45,733 - iesa_personalized_recommendations - INFO - Scenario selected: Power Shortage Risk
+2025-10-08 10:43:45,733 - iesa_personalized_recommendations - INFO - Scenario selected: Power Shortage Risk
+2025-10-08 10:43:45,733 - iesa_personalized_recommendations - INFO - Scenario selected: Power Shortage Risk
+2025-10-08 10:43:45,733 - iesa_personalized_recommendations - INFO - Scenario selected: Power Shortage Risk
+2025-10-08 10:43:45,733 - iesa_personalized_recommendations - INFO - Scenario selected: Power Shortage Risk
+2025-10-08 10:43:45,733 - iesa_personalized_recommendations - INFO - Scenario selected: Power Shortage Risk
+2025-10-08 10:43:45,733 - iesa_personalized_recommendations - INFO - Scenario selected: Power Shortage Risk
+2025-10-08 10:43:45,733 - iesa_personalized_recommendations - INFO - Scenario selected: Power Shortage Risk
+2025-10-08 10:43:45,733 - iesa_personalized_recommendations - INFO - Scenario selected: Power Shortage Risk
+2025-10-08 10:43:45,733 - iesa_personalized_recommendations - INFO - Scenario selected: Power Shortage Risk
+2025-10-08 10:43:45,733 - iesa_personalized_recommendations - INFO - Scenario selected: Power Shortage Risk
+2025-10-08 10:43:45,733 - iesa_personalized_recommendations - INFO - Scenario selected: Power Shortage Risk
+2025-10-08 10:43:45,733 - iesa_personalized_recommendations - INFO - Scenario selected: Power Shortage Risk
+2025-10-08 10:43:45,733 - iesa_personalized_recommendations - INFO - Scenario selected: Power Shortage Risk
+2025-10-08 10:43:45,733 - iesa_personalized_recommendations - INFO - Scenario selected: Power Shortage Risk
+2025-10-08 10:43:45,733 - iesa_personalized_recommendations - INFO - Scenario selected: Power Shortage Risk
+2025-10-08 10:43:45,737 - iesa_personalized_recommendations - INFO - Generate Recommendation for scenario: Power Shortage Risk
+2025-10-08 10:43:45,737 - iesa_personalized_recommendations - INFO - Generate Recommendation for scenario: Power Shortage Risk
+2025-10-08 10:43:45,737 - iesa_personalized_recommendations - INFO - Generate Recommendation for scenario: Power Shortage Risk
+2025-10-08 10:43:45,737 - iesa_personalized_recommendations - INFO - Generate Recommendation for scenario: Power Shortage Risk
+2025-10-08 10:43:45,737 - iesa_personalized_recommendations - INFO - Generate Recommendation for scenario: Power Shortage Risk
+2025-10-08 10:43:45,737 - iesa_personalized_recommendations - INFO - Generate Recommendation for scenario: Power Shortage Risk
+2025-10-08 10:43:45,737 - iesa_personalized_recommendations - INFO - Generate Recommendation for scenario: Power Shortage Risk
+2025-10-08 10:43:45,737 - iesa_personalized_recommendations - INFO - Generate Recommendation for scenario: Power Shortage Risk
+2025-10-08 10:43:45,737 - iesa_personalized_recommendations - INFO - Generate Recommendation for scenario: Power Shortage Risk
+2025-10-08 10:43:45,737 - iesa_personalized_recommendations - INFO - Generate Recommendation for scenario: Power Shortage Risk
+2025-10-08 10:43:45,737 - iesa_personalized_recommendations - INFO - Generate Recommendation for scenario: Power Shortage Risk
+2025-10-08 10:43:45,737 - iesa_personalized_recommendations - INFO - Generate Recommendation for scenario: Power Shortage Risk
+2025-10-08 10:43:45,737 - iesa_personalized_recommendations - INFO - Generate Recommendation for scenario: Power Shortage Risk
+2025-10-08 10:43:45,737 - iesa_personalized_recommendations - INFO - Generate Recommendation for scenario: Power Shortage Risk
+2025-10-08 10:43:45,737 - iesa_personalized_recommendations - INFO - Generate Recommendation for scenario: Power Shortage Risk
+2025-10-08 10:43:45,737 - iesa_personalized_recommendations - INFO - Generate Recommendation for scenario: Power Shortage Risk
+2025-10-08 10:43:49,477 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:43:49,477 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:43:49,477 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:43:49,477 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:43:49,477 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:43:49,477 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:43:49,477 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:43:49,477 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:43:49,477 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:43:49,477 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:43:49,477 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:43:49,477 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:43:49,477 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:43:49,477 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:43:49,477 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:43:49,477 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:43:49,477 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:43:49,515 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:43:49,515 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:43:49,515 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:43:49,515 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:43:49,515 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:43:49,515 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:43:49,515 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:43:49,515 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:43:49,515 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:43:49,515 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:43:49,515 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:43:49,515 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:43:49,515 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:43:49,515 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:43:49,515 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:43:49,515 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:43:49,515 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:43:49,534 - iesa_personalized_recommendations - INFO - Scenario selected: Power Shortage Risk
+2025-10-08 10:43:49,534 - iesa_personalized_recommendations - INFO - Scenario selected: Power Shortage Risk
+2025-10-08 10:43:49,534 - iesa_personalized_recommendations - INFO - Scenario selected: Power Shortage Risk
+2025-10-08 10:43:49,534 - iesa_personalized_recommendations - INFO - Scenario selected: Power Shortage Risk
+2025-10-08 10:43:49,534 - iesa_personalized_recommendations - INFO - Scenario selected: Power Shortage Risk
+2025-10-08 10:43:49,534 - iesa_personalized_recommendations - INFO - Scenario selected: Power Shortage Risk
+2025-10-08 10:43:49,534 - iesa_personalized_recommendations - INFO - Scenario selected: Power Shortage Risk
+2025-10-08 10:43:49,534 - iesa_personalized_recommendations - INFO - Scenario selected: Power Shortage Risk
+2025-10-08 10:43:49,534 - iesa_personalized_recommendations - INFO - Scenario selected: Power Shortage Risk
+2025-10-08 10:43:49,534 - iesa_personalized_recommendations - INFO - Scenario selected: Power Shortage Risk
+2025-10-08 10:43:49,534 - iesa_personalized_recommendations - INFO - Scenario selected: Power Shortage Risk
+2025-10-08 10:43:49,534 - iesa_personalized_recommendations - INFO - Scenario selected: Power Shortage Risk
+2025-10-08 10:43:49,534 - iesa_personalized_recommendations - INFO - Scenario selected: Power Shortage Risk
+2025-10-08 10:43:49,534 - iesa_personalized_recommendations - INFO - Scenario selected: Power Shortage Risk
+2025-10-08 10:43:49,534 - iesa_personalized_recommendations - INFO - Scenario selected: Power Shortage Risk
+2025-10-08 10:43:49,534 - iesa_personalized_recommendations - INFO - Scenario selected: Power Shortage Risk
+2025-10-08 10:43:49,534 - iesa_personalized_recommendations - INFO - Scenario selected: Power Shortage Risk
+2025-10-08 10:44:00,953 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:44:00,953 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:44:00,953 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:44:00,953 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:44:00,953 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:44:00,953 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:44:00,953 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:44:00,953 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:44:00,953 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:44:00,953 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:44:00,953 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:44:00,953 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:44:00,953 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:44:00,953 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:44:00,953 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:44:00,953 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:44:00,953 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:44:00,953 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:44:00,993 - iesa_personalized_recommendations - INFO - Scenario category selected: Gas
+2025-10-08 10:44:00,993 - iesa_personalized_recommendations - INFO - Scenario category selected: Gas
+2025-10-08 10:44:00,993 - iesa_personalized_recommendations - INFO - Scenario category selected: Gas
+2025-10-08 10:44:00,993 - iesa_personalized_recommendations - INFO - Scenario category selected: Gas
+2025-10-08 10:44:00,993 - iesa_personalized_recommendations - INFO - Scenario category selected: Gas
+2025-10-08 10:44:00,993 - iesa_personalized_recommendations - INFO - Scenario category selected: Gas
+2025-10-08 10:44:00,993 - iesa_personalized_recommendations - INFO - Scenario category selected: Gas
+2025-10-08 10:44:00,993 - iesa_personalized_recommendations - INFO - Scenario category selected: Gas
+2025-10-08 10:44:00,993 - iesa_personalized_recommendations - INFO - Scenario category selected: Gas
+2025-10-08 10:44:00,993 - iesa_personalized_recommendations - INFO - Scenario category selected: Gas
+2025-10-08 10:44:00,993 - iesa_personalized_recommendations - INFO - Scenario category selected: Gas
+2025-10-08 10:44:00,993 - iesa_personalized_recommendations - INFO - Scenario category selected: Gas
+2025-10-08 10:44:00,993 - iesa_personalized_recommendations - INFO - Scenario category selected: Gas
+2025-10-08 10:44:00,993 - iesa_personalized_recommendations - INFO - Scenario category selected: Gas
+2025-10-08 10:44:00,993 - iesa_personalized_recommendations - INFO - Scenario category selected: Gas
+2025-10-08 10:44:00,993 - iesa_personalized_recommendations - INFO - Scenario category selected: Gas
+2025-10-08 10:44:00,993 - iesa_personalized_recommendations - INFO - Scenario category selected: Gas
+2025-10-08 10:44:00,993 - iesa_personalized_recommendations - INFO - Scenario category selected: Gas
+2025-10-08 10:44:01,012 - iesa_personalized_recommendations - INFO - Scenario selected: Future Gas Demand Forecast
+2025-10-08 10:44:01,012 - iesa_personalized_recommendations - INFO - Scenario selected: Future Gas Demand Forecast
+2025-10-08 10:44:01,012 - iesa_personalized_recommendations - INFO - Scenario selected: Future Gas Demand Forecast
+2025-10-08 10:44:01,012 - iesa_personalized_recommendations - INFO - Scenario selected: Future Gas Demand Forecast
+2025-10-08 10:44:01,012 - iesa_personalized_recommendations - INFO - Scenario selected: Future Gas Demand Forecast
+2025-10-08 10:44:01,012 - iesa_personalized_recommendations - INFO - Scenario selected: Future Gas Demand Forecast
+2025-10-08 10:44:01,012 - iesa_personalized_recommendations - INFO - Scenario selected: Future Gas Demand Forecast
+2025-10-08 10:44:01,012 - iesa_personalized_recommendations - INFO - Scenario selected: Future Gas Demand Forecast
+2025-10-08 10:44:01,012 - iesa_personalized_recommendations - INFO - Scenario selected: Future Gas Demand Forecast
+2025-10-08 10:44:01,012 - iesa_personalized_recommendations - INFO - Scenario selected: Future Gas Demand Forecast
+2025-10-08 10:44:01,012 - iesa_personalized_recommendations - INFO - Scenario selected: Future Gas Demand Forecast
+2025-10-08 10:44:01,012 - iesa_personalized_recommendations - INFO - Scenario selected: Future Gas Demand Forecast
+2025-10-08 10:44:01,012 - iesa_personalized_recommendations - INFO - Scenario selected: Future Gas Demand Forecast
+2025-10-08 10:44:01,012 - iesa_personalized_recommendations - INFO - Scenario selected: Future Gas Demand Forecast
+2025-10-08 10:44:01,012 - iesa_personalized_recommendations - INFO - Scenario selected: Future Gas Demand Forecast
+2025-10-08 10:44:01,012 - iesa_personalized_recommendations - INFO - Scenario selected: Future Gas Demand Forecast
+2025-10-08 10:44:01,012 - iesa_personalized_recommendations - INFO - Scenario selected: Future Gas Demand Forecast
+2025-10-08 10:44:01,012 - iesa_personalized_recommendations - INFO - Scenario selected: Future Gas Demand Forecast
+2025-10-08 10:44:24,261 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:44:24,261 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:44:24,261 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:44:24,261 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:44:24,261 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:44:24,261 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:44:24,261 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:44:24,261 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:44:24,261 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:44:24,261 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:44:24,261 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:44:24,261 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:44:24,261 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:44:24,261 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:44:24,261 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:44:24,261 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:44:24,261 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:44:24,261 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:44:24,261 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:44:24,268 - iesa_personalized_recommendations - INFO - User navigated to Wisdom Mining page from Personalized Recommendations
+2025-10-08 10:44:24,268 - iesa_personalized_recommendations - INFO - User navigated to Wisdom Mining page from Personalized Recommendations
+2025-10-08 10:44:24,268 - iesa_personalized_recommendations - INFO - User navigated to Wisdom Mining page from Personalized Recommendations
+2025-10-08 10:44:24,268 - iesa_personalized_recommendations - INFO - User navigated to Wisdom Mining page from Personalized Recommendations
+2025-10-08 10:44:24,268 - iesa_personalized_recommendations - INFO - User navigated to Wisdom Mining page from Personalized Recommendations
+2025-10-08 10:44:24,268 - iesa_personalized_recommendations - INFO - User navigated to Wisdom Mining page from Personalized Recommendations
+2025-10-08 10:44:24,268 - iesa_personalized_recommendations - INFO - User navigated to Wisdom Mining page from Personalized Recommendations
+2025-10-08 10:44:24,268 - iesa_personalized_recommendations - INFO - User navigated to Wisdom Mining page from Personalized Recommendations
+2025-10-08 10:44:24,268 - iesa_personalized_recommendations - INFO - User navigated to Wisdom Mining page from Personalized Recommendations
+2025-10-08 10:44:24,268 - iesa_personalized_recommendations - INFO - User navigated to Wisdom Mining page from Personalized Recommendations
+2025-10-08 10:44:24,268 - iesa_personalized_recommendations - INFO - User navigated to Wisdom Mining page from Personalized Recommendations
+2025-10-08 10:44:24,268 - iesa_personalized_recommendations - INFO - User navigated to Wisdom Mining page from Personalized Recommendations
+2025-10-08 10:44:24,268 - iesa_personalized_recommendations - INFO - User navigated to Wisdom Mining page from Personalized Recommendations
+2025-10-08 10:44:24,268 - iesa_personalized_recommendations - INFO - User navigated to Wisdom Mining page from Personalized Recommendations
+2025-10-08 10:44:24,268 - iesa_personalized_recommendations - INFO - User navigated to Wisdom Mining page from Personalized Recommendations
+2025-10-08 10:44:24,268 - iesa_personalized_recommendations - INFO - User navigated to Wisdom Mining page from Personalized Recommendations
+2025-10-08 10:44:24,268 - iesa_personalized_recommendations - INFO - User navigated to Wisdom Mining page from Personalized Recommendations
+2025-10-08 10:44:24,268 - iesa_personalized_recommendations - INFO - User navigated to Wisdom Mining page from Personalized Recommendations
+2025-10-08 10:44:24,268 - iesa_personalized_recommendations - INFO - User navigated to Wisdom Mining page from Personalized Recommendations
+2025-10-08 10:44:28,476 - iesa_wisdom_mining - INFO - IESA Wisdom Mining page loaded
+2025-10-08 10:44:36,216 - iesa_wisdom_mining - INFO - IESA Wisdom Mining page loaded
+2025-10-08 10:44:36,216 - iesa_wisdom_mining - INFO - IESA Wisdom Mining page loaded
+2025-10-08 10:45:01,658 - iesa_wisdom_mining - INFO - IESA Wisdom Mining page loaded
+2025-10-08 10:45:01,658 - iesa_wisdom_mining - INFO - IESA Wisdom Mining page loaded
+2025-10-08 10:45:01,658 - iesa_wisdom_mining - INFO - IESA Wisdom Mining page loaded
+2025-10-08 10:45:20,939 - iesa_wisdom_mining - INFO - IESA Wisdom Mining page loaded
+2025-10-08 10:45:20,939 - iesa_wisdom_mining - INFO - IESA Wisdom Mining page loaded
+2025-10-08 10:45:20,939 - iesa_wisdom_mining - INFO - IESA Wisdom Mining page loaded
+2025-10-08 10:45:20,939 - iesa_wisdom_mining - INFO - IESA Wisdom Mining page loaded
+2025-10-08 10:45:20,942 - iesa_wisdom_mining - INFO - User navigated to Prediction Engine page from Wisdom Mining
+2025-10-08 10:45:20,942 - iesa_wisdom_mining - INFO - User navigated to Prediction Engine page from Wisdom Mining
+2025-10-08 10:45:20,942 - iesa_wisdom_mining - INFO - User navigated to Prediction Engine page from Wisdom Mining
+2025-10-08 10:45:20,942 - iesa_wisdom_mining - INFO - User navigated to Prediction Engine page from Wisdom Mining
+2025-10-08 10:45:33,522 - iesa_prediction_engine - INFO - IESA Prediction Engine page loaded
+2025-10-08 10:45:33,653 - iesa_prediction_engine - INFO - Fetched tables for sidebar: ['annual_electricity_data', 'electricity_consumption_by_sector_gwh', 'energy_supply_and_consumption_analysis', 'final_energy_consumption_by_source_toe', 'natural_gas_production_and_consumption', 'primary_energy_supplies_by_source_toe', 'province_wise_electricity_consumption_gwh', 'province_wise_energy_consumption', 'provincial_energy_distribution_and_transmission_losses', 'scenario_definitions', 'sector_wise_energy_consumption', 'total_imports_lng', 'total_proved_reserves', 'user_data']
+2025-10-08 10:45:33,654 - iesa_prediction_engine - INFO - User selected table: annual_electricity_data
+2025-10-08 10:45:38,994 - iesa_prediction_engine - INFO - IESA Prediction Engine page loaded
+2025-10-08 10:45:38,994 - iesa_prediction_engine - INFO - IESA Prediction Engine page loaded
+2025-10-08 10:45:39,017 - iesa_prediction_engine - INFO - Fetched tables for sidebar: ['annual_electricity_data', 'electricity_consumption_by_sector_gwh', 'energy_supply_and_consumption_analysis', 'final_energy_consumption_by_source_toe', 'natural_gas_production_and_consumption', 'primary_energy_supplies_by_source_toe', 'province_wise_electricity_consumption_gwh', 'province_wise_energy_consumption', 'provincial_energy_distribution_and_transmission_losses', 'scenario_definitions', 'sector_wise_energy_consumption', 'total_imports_lng', 'total_proved_reserves', 'user_data']
+2025-10-08 10:45:39,017 - iesa_prediction_engine - INFO - Fetched tables for sidebar: ['annual_electricity_data', 'electricity_consumption_by_sector_gwh', 'energy_supply_and_consumption_analysis', 'final_energy_consumption_by_source_toe', 'natural_gas_production_and_consumption', 'primary_energy_supplies_by_source_toe', 'province_wise_electricity_consumption_gwh', 'province_wise_energy_consumption', 'provincial_energy_distribution_and_transmission_losses', 'scenario_definitions', 'sector_wise_energy_consumption', 'total_imports_lng', 'total_proved_reserves', 'user_data']
+2025-10-08 10:45:39,018 - iesa_prediction_engine - INFO - User selected table: annual_electricity_data
+2025-10-08 10:45:39,018 - iesa_prediction_engine - INFO - User selected table: annual_electricity_data
+2025-10-08 10:45:40,191 - iesa_prediction_engine - INFO - IESA Prediction Engine page loaded
+2025-10-08 10:45:40,191 - iesa_prediction_engine - INFO - IESA Prediction Engine page loaded
+2025-10-08 10:45:40,191 - iesa_prediction_engine - INFO - IESA Prediction Engine page loaded
+2025-10-08 10:45:40,207 - iesa_prediction_engine - INFO - Fetched tables for sidebar: ['annual_electricity_data', 'electricity_consumption_by_sector_gwh', 'energy_supply_and_consumption_analysis', 'final_energy_consumption_by_source_toe', 'natural_gas_production_and_consumption', 'primary_energy_supplies_by_source_toe', 'province_wise_electricity_consumption_gwh', 'province_wise_energy_consumption', 'provincial_energy_distribution_and_transmission_losses', 'scenario_definitions', 'sector_wise_energy_consumption', 'total_imports_lng', 'total_proved_reserves', 'user_data']
+2025-10-08 10:45:40,207 - iesa_prediction_engine - INFO - Fetched tables for sidebar: ['annual_electricity_data', 'electricity_consumption_by_sector_gwh', 'energy_supply_and_consumption_analysis', 'final_energy_consumption_by_source_toe', 'natural_gas_production_and_consumption', 'primary_energy_supplies_by_source_toe', 'province_wise_electricity_consumption_gwh', 'province_wise_energy_consumption', 'provincial_energy_distribution_and_transmission_losses', 'scenario_definitions', 'sector_wise_energy_consumption', 'total_imports_lng', 'total_proved_reserves', 'user_data']
+2025-10-08 10:45:40,207 - iesa_prediction_engine - INFO - Fetched tables for sidebar: ['annual_electricity_data', 'electricity_consumption_by_sector_gwh', 'energy_supply_and_consumption_analysis', 'final_energy_consumption_by_source_toe', 'natural_gas_production_and_consumption', 'primary_energy_supplies_by_source_toe', 'province_wise_electricity_consumption_gwh', 'province_wise_energy_consumption', 'provincial_energy_distribution_and_transmission_losses', 'scenario_definitions', 'sector_wise_energy_consumption', 'total_imports_lng', 'total_proved_reserves', 'user_data']
+2025-10-08 10:45:40,209 - iesa_prediction_engine - INFO - User selected table: annual_electricity_data
+2025-10-08 10:45:40,209 - iesa_prediction_engine - INFO - User selected table: annual_electricity_data
+2025-10-08 10:45:40,209 - iesa_prediction_engine - INFO - User selected table: annual_electricity_data
+2025-10-08 10:45:40,228 - iesa_prediction_engine - INFO - Linear Regression run: Table=annual_electricity_data, X=Year, Y=Installed Capacity (MW)
+2025-10-08 10:45:40,228 - iesa_prediction_engine - INFO - Linear Regression run: Table=annual_electricity_data, X=Year, Y=Installed Capacity (MW)
+2025-10-08 10:45:40,228 - iesa_prediction_engine - INFO - Linear Regression run: Table=annual_electricity_data, X=Year, Y=Installed Capacity (MW)
+2025-10-08 10:45:44,559 - iesa_prediction_engine - INFO - IESA Prediction Engine page loaded
+2025-10-08 10:45:44,559 - iesa_prediction_engine - INFO - IESA Prediction Engine page loaded
+2025-10-08 10:45:44,559 - iesa_prediction_engine - INFO - IESA Prediction Engine page loaded
+2025-10-08 10:45:44,559 - iesa_prediction_engine - INFO - IESA Prediction Engine page loaded
+2025-10-08 10:45:44,579 - iesa_prediction_engine - INFO - Fetched tables for sidebar: ['annual_electricity_data', 'electricity_consumption_by_sector_gwh', 'energy_supply_and_consumption_analysis', 'final_energy_consumption_by_source_toe', 'natural_gas_production_and_consumption', 'primary_energy_supplies_by_source_toe', 'province_wise_electricity_consumption_gwh', 'province_wise_energy_consumption', 'provincial_energy_distribution_and_transmission_losses', 'scenario_definitions', 'sector_wise_energy_consumption', 'total_imports_lng', 'total_proved_reserves', 'user_data']
+2025-10-08 10:45:44,579 - iesa_prediction_engine - INFO - Fetched tables for sidebar: ['annual_electricity_data', 'electricity_consumption_by_sector_gwh', 'energy_supply_and_consumption_analysis', 'final_energy_consumption_by_source_toe', 'natural_gas_production_and_consumption', 'primary_energy_supplies_by_source_toe', 'province_wise_electricity_consumption_gwh', 'province_wise_energy_consumption', 'provincial_energy_distribution_and_transmission_losses', 'scenario_definitions', 'sector_wise_energy_consumption', 'total_imports_lng', 'total_proved_reserves', 'user_data']
+2025-10-08 10:45:44,579 - iesa_prediction_engine - INFO - Fetched tables for sidebar: ['annual_electricity_data', 'electricity_consumption_by_sector_gwh', 'energy_supply_and_consumption_analysis', 'final_energy_consumption_by_source_toe', 'natural_gas_production_and_consumption', 'primary_energy_supplies_by_source_toe', 'province_wise_electricity_consumption_gwh', 'province_wise_energy_consumption', 'provincial_energy_distribution_and_transmission_losses', 'scenario_definitions', 'sector_wise_energy_consumption', 'total_imports_lng', 'total_proved_reserves', 'user_data']
+2025-10-08 10:45:44,579 - iesa_prediction_engine - INFO - Fetched tables for sidebar: ['annual_electricity_data', 'electricity_consumption_by_sector_gwh', 'energy_supply_and_consumption_analysis', 'final_energy_consumption_by_source_toe', 'natural_gas_production_and_consumption', 'primary_energy_supplies_by_source_toe', 'province_wise_electricity_consumption_gwh', 'province_wise_energy_consumption', 'provincial_energy_distribution_and_transmission_losses', 'scenario_definitions', 'sector_wise_energy_consumption', 'total_imports_lng', 'total_proved_reserves', 'user_data']
+2025-10-08 10:45:44,581 - iesa_prediction_engine - INFO - User selected table: annual_electricity_data
+2025-10-08 10:45:44,581 - iesa_prediction_engine - INFO - User selected table: annual_electricity_data
+2025-10-08 10:45:44,581 - iesa_prediction_engine - INFO - User selected table: annual_electricity_data
+2025-10-08 10:45:44,581 - iesa_prediction_engine - INFO - User selected table: annual_electricity_data
+2025-10-08 10:45:44,675 - iesa_prediction_engine - INFO - Polynomial Regression run: Table=annual_electricity_data, X=Year, Y=Installed Capacity (MW)
+2025-10-08 10:45:44,675 - iesa_prediction_engine - INFO - Polynomial Regression run: Table=annual_electricity_data, X=Year, Y=Installed Capacity (MW)
+2025-10-08 10:45:44,675 - iesa_prediction_engine - INFO - Polynomial Regression run: Table=annual_electricity_data, X=Year, Y=Installed Capacity (MW)
+2025-10-08 10:45:44,675 - iesa_prediction_engine - INFO - Polynomial Regression run: Table=annual_electricity_data, X=Year, Y=Installed Capacity (MW)
+2025-10-08 10:45:53,239 - iesa_prediction_engine - INFO - IESA Prediction Engine page loaded
+2025-10-08 10:45:53,239 - iesa_prediction_engine - INFO - IESA Prediction Engine page loaded
+2025-10-08 10:45:53,239 - iesa_prediction_engine - INFO - IESA Prediction Engine page loaded
+2025-10-08 10:45:53,239 - iesa_prediction_engine - INFO - IESA Prediction Engine page loaded
+2025-10-08 10:45:53,239 - iesa_prediction_engine - INFO - IESA Prediction Engine page loaded
+2025-10-08 10:45:53,243 - iesa_prediction_engine - INFO - User navigated to Data Planner page from Prediction Engine
+2025-10-08 10:45:53,243 - iesa_prediction_engine - INFO - User navigated to Data Planner page from Prediction Engine
+2025-10-08 10:45:53,243 - iesa_prediction_engine - INFO - User navigated to Data Planner page from Prediction Engine
+2025-10-08 10:45:53,243 - iesa_prediction_engine - INFO - User navigated to Data Planner page from Prediction Engine
+2025-10-08 10:45:53,243 - iesa_prediction_engine - INFO - User navigated to Data Planner page from Prediction Engine
+2025-10-08 10:45:57,235 - iesa_data_planner - INFO - IESA Data Planner page loaded
+2025-10-08 10:45:57,394 - iesa_data_planner - INFO - Fetched tables: ['annual_electricity_data', 'electricity_consumption_by_sector_gwh', 'energy_supply_and_consumption_analysis', 'final_energy_consumption_by_source_toe', 'natural_gas_production_and_consumption', 'primary_energy_supplies_by_source_toe', 'province_wise_electricity_consumption_gwh', 'province_wise_energy_consumption', 'provincial_energy_distribution_and_transmission_losses', 'scenario_definitions', 'sector_wise_energy_consumption', 'total_imports_lng', 'total_proved_reserves', 'user_data']
+2025-10-08 10:45:57,404 - iesa_data_planner - INFO - Fetched data for table: annual_electricity_data, 17 rows
+2025-10-08 10:46:11,089 - iesa_data_planner - INFO - IESA Data Planner page loaded
+2025-10-08 10:46:11,089 - iesa_data_planner - INFO - IESA Data Planner page loaded
+2025-10-08 10:46:11,104 - iesa_data_planner - INFO - Fetched tables: ['annual_electricity_data', 'electricity_consumption_by_sector_gwh', 'energy_supply_and_consumption_analysis', 'final_energy_consumption_by_source_toe', 'natural_gas_production_and_consumption', 'primary_energy_supplies_by_source_toe', 'province_wise_electricity_consumption_gwh', 'province_wise_energy_consumption', 'provincial_energy_distribution_and_transmission_losses', 'scenario_definitions', 'sector_wise_energy_consumption', 'total_imports_lng', 'total_proved_reserves', 'user_data']
+2025-10-08 10:46:11,104 - iesa_data_planner - INFO - Fetched tables: ['annual_electricity_data', 'electricity_consumption_by_sector_gwh', 'energy_supply_and_consumption_analysis', 'final_energy_consumption_by_source_toe', 'natural_gas_production_and_consumption', 'primary_energy_supplies_by_source_toe', 'province_wise_electricity_consumption_gwh', 'province_wise_energy_consumption', 'provincial_energy_distribution_and_transmission_losses', 'scenario_definitions', 'sector_wise_energy_consumption', 'total_imports_lng', 'total_proved_reserves', 'user_data']
+2025-10-08 10:46:11,116 - iesa_data_planner - INFO - Fetched data for table: annual_electricity_data, 17 rows
+2025-10-08 10:46:11,116 - iesa_data_planner - INFO - Fetched data for table: annual_electricity_data, 17 rows
+2025-10-08 10:46:13,733 - iesa_data_planner - INFO - IESA Data Planner page loaded
+2025-10-08 10:46:13,733 - iesa_data_planner - INFO - IESA Data Planner page loaded
+2025-10-08 10:46:13,733 - iesa_data_planner - INFO - IESA Data Planner page loaded
+2025-10-08 10:46:13,752 - iesa_data_planner - INFO - Fetched tables: ['annual_electricity_data', 'electricity_consumption_by_sector_gwh', 'energy_supply_and_consumption_analysis', 'final_energy_consumption_by_source_toe', 'natural_gas_production_and_consumption', 'primary_energy_supplies_by_source_toe', 'province_wise_electricity_consumption_gwh', 'province_wise_energy_consumption', 'provincial_energy_distribution_and_transmission_losses', 'scenario_definitions', 'sector_wise_energy_consumption', 'total_imports_lng', 'total_proved_reserves', 'user_data']
+2025-10-08 10:46:13,752 - iesa_data_planner - INFO - Fetched tables: ['annual_electricity_data', 'electricity_consumption_by_sector_gwh', 'energy_supply_and_consumption_analysis', 'final_energy_consumption_by_source_toe', 'natural_gas_production_and_consumption', 'primary_energy_supplies_by_source_toe', 'province_wise_electricity_consumption_gwh', 'province_wise_energy_consumption', 'provincial_energy_distribution_and_transmission_losses', 'scenario_definitions', 'sector_wise_energy_consumption', 'total_imports_lng', 'total_proved_reserves', 'user_data']
+2025-10-08 10:46:13,752 - iesa_data_planner - INFO - Fetched tables: ['annual_electricity_data', 'electricity_consumption_by_sector_gwh', 'energy_supply_and_consumption_analysis', 'final_energy_consumption_by_source_toe', 'natural_gas_production_and_consumption', 'primary_energy_supplies_by_source_toe', 'province_wise_electricity_consumption_gwh', 'province_wise_energy_consumption', 'provincial_energy_distribution_and_transmission_losses', 'scenario_definitions', 'sector_wise_energy_consumption', 'total_imports_lng', 'total_proved_reserves', 'user_data']
+2025-10-08 10:46:13,766 - iesa_data_planner - INFO - Fetched data for table: annual_electricity_data, 17 rows
+2025-10-08 10:46:13,766 - iesa_data_planner - INFO - Fetched data for table: annual_electricity_data, 17 rows
+2025-10-08 10:46:13,766 - iesa_data_planner - INFO - Fetched data for table: annual_electricity_data, 17 rows
+2025-10-08 10:46:13,774 - iesa_data_planner - INFO - Chart added: Table=annual_electricity_data, Type=Bar, X=Year, Y=Installed Capacity (MW), ShowValues=False
+2025-10-08 10:46:13,774 - iesa_data_planner - INFO - Chart added: Table=annual_electricity_data, Type=Bar, X=Year, Y=Installed Capacity (MW), ShowValues=False
+2025-10-08 10:46:13,774 - iesa_data_planner - INFO - Chart added: Table=annual_electricity_data, Type=Bar, X=Year, Y=Installed Capacity (MW), ShowValues=False
+2025-10-08 10:46:13,789 - iesa_data_planner - INFO - Fetched data for table: annual_electricity_data, 17 rows
+2025-10-08 10:46:13,789 - iesa_data_planner - INFO - Fetched data for table: annual_electricity_data, 17 rows
+2025-10-08 10:46:13,789 - iesa_data_planner - INFO - Fetched data for table: annual_electricity_data, 17 rows
+2025-10-08 10:46:14,728 - iesa_data_planner - INFO - Fetched data for table: annual_electricity_data, 17 rows
+2025-10-08 10:46:14,728 - iesa_data_planner - INFO - Fetched data for table: annual_electricity_data, 17 rows
+2025-10-08 10:46:14,728 - iesa_data_planner - INFO - Fetched data for table: annual_electricity_data, 17 rows
+2025-10-08 10:46:16,185 - iesa_data_planner - INFO - PDF report generated with 1 charts
+2025-10-08 10:46:16,185 - iesa_data_planner - INFO - PDF report generated with 1 charts
+2025-10-08 10:46:16,185 - iesa_data_planner - INFO - PDF report generated with 1 charts
+2025-10-08 10:46:16,259 - iesa_data_planner - INFO - IESA Data Planner page loaded
+2025-10-08 10:46:16,259 - iesa_data_planner - INFO - IESA Data Planner page loaded
+2025-10-08 10:46:16,259 - iesa_data_planner - INFO - IESA Data Planner page loaded
+2025-10-08 10:46:16,259 - iesa_data_planner - INFO - IESA Data Planner page loaded
+2025-10-08 10:46:16,275 - iesa_data_planner - INFO - Fetched tables: ['annual_electricity_data', 'electricity_consumption_by_sector_gwh', 'energy_supply_and_consumption_analysis', 'final_energy_consumption_by_source_toe', 'natural_gas_production_and_consumption', 'primary_energy_supplies_by_source_toe', 'province_wise_electricity_consumption_gwh', 'province_wise_energy_consumption', 'provincial_energy_distribution_and_transmission_losses', 'scenario_definitions', 'sector_wise_energy_consumption', 'total_imports_lng', 'total_proved_reserves', 'user_data']
+2025-10-08 10:46:16,275 - iesa_data_planner - INFO - Fetched tables: ['annual_electricity_data', 'electricity_consumption_by_sector_gwh', 'energy_supply_and_consumption_analysis', 'final_energy_consumption_by_source_toe', 'natural_gas_production_and_consumption', 'primary_energy_supplies_by_source_toe', 'province_wise_electricity_consumption_gwh', 'province_wise_energy_consumption', 'provincial_energy_distribution_and_transmission_losses', 'scenario_definitions', 'sector_wise_energy_consumption', 'total_imports_lng', 'total_proved_reserves', 'user_data']
+2025-10-08 10:46:16,275 - iesa_data_planner - INFO - Fetched tables: ['annual_electricity_data', 'electricity_consumption_by_sector_gwh', 'energy_supply_and_consumption_analysis', 'final_energy_consumption_by_source_toe', 'natural_gas_production_and_consumption', 'primary_energy_supplies_by_source_toe', 'province_wise_electricity_consumption_gwh', 'province_wise_energy_consumption', 'provincial_energy_distribution_and_transmission_losses', 'scenario_definitions', 'sector_wise_energy_consumption', 'total_imports_lng', 'total_proved_reserves', 'user_data']
+2025-10-08 10:46:16,275 - iesa_data_planner - INFO - Fetched tables: ['annual_electricity_data', 'electricity_consumption_by_sector_gwh', 'energy_supply_and_consumption_analysis', 'final_energy_consumption_by_source_toe', 'natural_gas_production_and_consumption', 'primary_energy_supplies_by_source_toe', 'province_wise_electricity_consumption_gwh', 'province_wise_energy_consumption', 'provincial_energy_distribution_and_transmission_losses', 'scenario_definitions', 'sector_wise_energy_consumption', 'total_imports_lng', 'total_proved_reserves', 'user_data']
+2025-10-08 10:46:16,290 - iesa_data_planner - INFO - Fetched data for table: annual_electricity_data, 17 rows
+2025-10-08 10:46:16,290 - iesa_data_planner - INFO - Fetched data for table: annual_electricity_data, 17 rows
+2025-10-08 10:46:16,290 - iesa_data_planner - INFO - Fetched data for table: annual_electricity_data, 17 rows
+2025-10-08 10:46:16,290 - iesa_data_planner - INFO - Fetched data for table: annual_electricity_data, 17 rows
+2025-10-08 10:46:16,307 - iesa_data_planner - INFO - Fetched data for table: annual_electricity_data, 17 rows
+2025-10-08 10:46:16,307 - iesa_data_planner - INFO - Fetched data for table: annual_electricity_data, 17 rows
+2025-10-08 10:46:16,307 - iesa_data_planner - INFO - Fetched data for table: annual_electricity_data, 17 rows
+2025-10-08 10:46:16,307 - iesa_data_planner - INFO - Fetched data for table: annual_electricity_data, 17 rows
+2025-10-08 10:46:16,700 - iesa_data_planner - INFO - Fetched data for table: annual_electricity_data, 17 rows
+2025-10-08 10:46:16,700 - iesa_data_planner - INFO - Fetched data for table: annual_electricity_data, 17 rows
+2025-10-08 10:46:16,700 - iesa_data_planner - INFO - Fetched data for table: annual_electricity_data, 17 rows
+2025-10-08 10:46:16,700 - iesa_data_planner - INFO - Fetched data for table: annual_electricity_data, 17 rows
+2025-10-08 10:46:18,146 - iesa_data_planner - INFO - PDF report generated with 1 charts
+2025-10-08 10:46:18,146 - iesa_data_planner - INFO - PDF report generated with 1 charts
+2025-10-08 10:46:18,146 - iesa_data_planner - INFO - PDF report generated with 1 charts
+2025-10-08 10:46:18,146 - iesa_data_planner - INFO - PDF report generated with 1 charts
+2025-10-08 10:54:20,971 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:20,971 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:20,971 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:20,971 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:20,971 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:20,971 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:20,971 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:20,971 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:20,971 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:20,971 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:20,971 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:20,971 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:20,971 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:20,971 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:20,971 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:20,971 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:20,971 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:20,971 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:20,971 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:20,971 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:21,214 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:54:21,214 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:54:21,214 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:54:21,214 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:54:21,214 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:54:21,214 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:54:21,214 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:54:21,214 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:54:21,214 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:54:21,214 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:54:21,214 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:54:21,214 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:54:21,214 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:54:21,214 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:54:21,214 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:54:21,214 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:54:21,214 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:54:21,214 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:54:21,214 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:54:21,214 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:54:21,227 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:54:21,227 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:54:21,227 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:54:21,227 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:54:21,227 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:54:21,227 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:54:21,227 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:54:21,227 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:54:21,227 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:54:21,227 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:54:21,227 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:54:21,227 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:54:21,227 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:54:21,227 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:54:21,227 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:54:21,227 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:54:21,227 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:54:21,227 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:54:21,227 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:54:21,227 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:54:27,457 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:27,457 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:27,457 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:27,457 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:27,457 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:27,457 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:27,457 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:27,457 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:27,457 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:27,457 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:27,457 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:27,457 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:27,457 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:27,457 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:27,457 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:27,457 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:27,457 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:27,457 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:27,457 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:27,457 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:27,457 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:27,479 - iesa_personalized_recommendations - INFO - Sidebar button clicked: View Data for table annual_electricity_data
+2025-10-08 10:54:27,479 - iesa_personalized_recommendations - INFO - Sidebar button clicked: View Data for table annual_electricity_data
+2025-10-08 10:54:27,479 - iesa_personalized_recommendations - INFO - Sidebar button clicked: View Data for table annual_electricity_data
+2025-10-08 10:54:27,479 - iesa_personalized_recommendations - INFO - Sidebar button clicked: View Data for table annual_electricity_data
+2025-10-08 10:54:27,479 - iesa_personalized_recommendations - INFO - Sidebar button clicked: View Data for table annual_electricity_data
+2025-10-08 10:54:27,479 - iesa_personalized_recommendations - INFO - Sidebar button clicked: View Data for table annual_electricity_data
+2025-10-08 10:54:27,479 - iesa_personalized_recommendations - INFO - Sidebar button clicked: View Data for table annual_electricity_data
+2025-10-08 10:54:27,479 - iesa_personalized_recommendations - INFO - Sidebar button clicked: View Data for table annual_electricity_data
+2025-10-08 10:54:27,479 - iesa_personalized_recommendations - INFO - Sidebar button clicked: View Data for table annual_electricity_data
+2025-10-08 10:54:27,479 - iesa_personalized_recommendations - INFO - Sidebar button clicked: View Data for table annual_electricity_data
+2025-10-08 10:54:27,479 - iesa_personalized_recommendations - INFO - Sidebar button clicked: View Data for table annual_electricity_data
+2025-10-08 10:54:27,479 - iesa_personalized_recommendations - INFO - Sidebar button clicked: View Data for table annual_electricity_data
+2025-10-08 10:54:27,479 - iesa_personalized_recommendations - INFO - Sidebar button clicked: View Data for table annual_electricity_data
+2025-10-08 10:54:27,479 - iesa_personalized_recommendations - INFO - Sidebar button clicked: View Data for table annual_electricity_data
+2025-10-08 10:54:27,479 - iesa_personalized_recommendations - INFO - Sidebar button clicked: View Data for table annual_electricity_data
+2025-10-08 10:54:27,479 - iesa_personalized_recommendations - INFO - Sidebar button clicked: View Data for table annual_electricity_data
+2025-10-08 10:54:27,479 - iesa_personalized_recommendations - INFO - Sidebar button clicked: View Data for table annual_electricity_data
+2025-10-08 10:54:27,479 - iesa_personalized_recommendations - INFO - Sidebar button clicked: View Data for table annual_electricity_data
+2025-10-08 10:54:27,479 - iesa_personalized_recommendations - INFO - Sidebar button clicked: View Data for table annual_electricity_data
+2025-10-08 10:54:27,479 - iesa_personalized_recommendations - INFO - Sidebar button clicked: View Data for table annual_electricity_data
+2025-10-08 10:54:27,479 - iesa_personalized_recommendations - INFO - Sidebar button clicked: View Data for table annual_electricity_data
+2025-10-08 10:54:32,073 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:32,073 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:32,073 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:32,073 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:32,073 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:32,073 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:32,073 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:32,073 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:32,073 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:32,073 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:32,073 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:32,073 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:32,073 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:32,073 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:32,073 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:32,073 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:32,073 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:32,073 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:32,073 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:32,073 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:32,073 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:32,073 - iesa_personalized_recommendations - INFO - IESA Personalized Recommendations page loaded
+2025-10-08 10:54:32,106 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:54:32,106 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:54:32,106 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:54:32,106 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:54:32,106 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:54:32,106 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:54:32,106 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:54:32,106 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:54:32,106 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:54:32,106 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:54:32,106 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:54:32,106 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:54:32,106 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:54:32,106 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:54:32,106 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:54:32,106 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:54:32,106 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:54:32,106 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:54:32,106 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:54:32,106 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:54:32,106 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:54:32,106 - iesa_personalized_recommendations - INFO - Scenario category selected: Electricity
+2025-10-08 10:54:32,121 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:54:32,121 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:54:32,121 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:54:32,121 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:54:32,121 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:54:32,121 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:54:32,121 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:54:32,121 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:54:32,121 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:54:32,121 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:54:32,121 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:54:32,121 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:54:32,121 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:54:32,121 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:54:32,121 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:54:32,121 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:54:32,121 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:54:32,121 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:54:32,121 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:54:32,121 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:54:32,121 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:54:32,121 - iesa_personalized_recommendations - INFO - Scenario selected: Future Electricity Demand Growth
+2025-10-08 10:56:58,916 - iesa_wisdom_mining - INFO - IESA Wisdom Mining page loaded
+2025-10-08 10:56:58,916 - iesa_wisdom_mining - INFO - IESA Wisdom Mining page loaded
+2025-10-08 10:56:58,916 - iesa_wisdom_mining - INFO - IESA Wisdom Mining page loaded
+2025-10-08 10:56:58,916 - iesa_wisdom_mining - INFO - IESA Wisdom Mining page loaded
+2025-10-08 10:56:58,916 - iesa_wisdom_mining - INFO - IESA Wisdom Mining page loaded
+2025-10-08 10:56:58,918 - iesa_wisdom_mining - INFO - User navigated to Prediction Engine page from Wisdom Mining
+2025-10-08 10:56:58,918 - iesa_wisdom_mining - INFO - User navigated to Prediction Engine page from Wisdom Mining
+2025-10-08 10:56:58,918 - iesa_wisdom_mining - INFO - User navigated to Prediction Engine page from Wisdom Mining
+2025-10-08 10:56:58,918 - iesa_wisdom_mining - INFO - User navigated to Prediction Engine page from Wisdom Mining
+2025-10-08 10:56:58,918 - iesa_wisdom_mining - INFO - User navigated to Prediction Engine page from Wisdom Mining
+2025-10-08 10:56:59,142 - iesa_prediction_engine - INFO - IESA Prediction Engine page loaded
+2025-10-08 10:56:59,142 - iesa_prediction_engine - INFO - IESA Prediction Engine page loaded
+2025-10-08 10:56:59,142 - iesa_prediction_engine - INFO - IESA Prediction Engine page loaded
+2025-10-08 10:56:59,142 - iesa_prediction_engine - INFO - IESA Prediction Engine page loaded
+2025-10-08 10:56:59,142 - iesa_prediction_engine - INFO - IESA Prediction Engine page loaded
+2025-10-08 10:56:59,142 - iesa_prediction_engine - INFO - IESA Prediction Engine page loaded
+2025-10-08 10:56:59,147 - iesa_prediction_engine - INFO - User navigated to Data Planner page from Prediction Engine
+2025-10-08 10:56:59,147 - iesa_prediction_engine - INFO - User navigated to Data Planner page from Prediction Engine
+2025-10-08 10:56:59,147 - iesa_prediction_engine - INFO - User navigated to Data Planner page from Prediction Engine
+2025-10-08 10:56:59,147 - iesa_prediction_engine - INFO - User navigated to Data Planner page from Prediction Engine
+2025-10-08 10:56:59,147 - iesa_prediction_engine - INFO - User navigated to Data Planner page from Prediction Engine
+2025-10-08 10:56:59,147 - iesa_prediction_engine - INFO - User navigated to Data Planner page from Prediction Engine
+2025-10-08 10:57:08,221 - iesa_data_planner - INFO - IESA Data Planner page loaded
+2025-10-08 10:57:08,565 - iesa_data_planner - INFO - Fetched tables: ['annual_electricity_data', 'electricity_consumption_by_sector_gwh', 'energy_supply_and_consumption_analysis', 'final_energy_consumption_by_source_toe', 'natural_gas_production_and_consumption', 'primary_energy_supplies_by_source_toe', 'province_wise_electricity_consumption_gwh', 'province_wise_energy_consumption', 'provincial_energy_distribution_and_transmission_losses', 'scenario_definitions', 'sector_wise_energy_consumption', 'total_imports_lng', 'total_proved_reserves', 'user_data']
+2025-10-08 10:57:08,579 - iesa_data_planner - INFO - Fetched data for table: annual_electricity_data, 17 rows
+2025-10-08 10:57:15,101 - iesa_prediction_engine - INFO - IESA Prediction Engine page loaded
+2025-10-08 10:57:15,196 - iesa_prediction_engine - INFO - Fetched tables for sidebar: ['annual_electricity_data', 'electricity_consumption_by_sector_gwh', 'energy_supply_and_consumption_analysis', 'final_energy_consumption_by_source_toe', 'natural_gas_production_and_consumption', 'primary_energy_supplies_by_source_toe', 'province_wise_electricity_consumption_gwh', 'province_wise_energy_consumption', 'provincial_energy_distribution_and_transmission_losses', 'scenario_definitions', 'sector_wise_energy_consumption', 'total_imports_lng', 'total_proved_reserves', 'user_data']
+2025-10-08 10:57:15,198 - iesa_prediction_engine - INFO - User selected table: annual_electricity_data
+2025-10-08 11:45:28,715 - iesa_wisdom_mining - INFO - IESA Wisdom Mining page loaded
+2025-10-08 11:45:28,715 - iesa_prediction_engine - INFO - IESA Prediction Engine page loaded
+2025-10-08 11:45:28,715 - iesa_wisdom_mining - INFO - IESA Wisdom Mining page loaded
+2025-10-08 11:45:28,715 - iesa_wisdom_mining - INFO - IESA Wisdom Mining page loaded
+2025-10-08 11:45:28,715 - iesa_prediction_engine - INFO - IESA Prediction Engine page loaded
+2025-10-08 11:45:28,715 - iesa_wisdom_mining - INFO - IESA Wisdom Mining page loaded
+2025-10-08 11:45:28,715 - iesa_prediction_engine - INFO - IESA Prediction Engine page loaded
+2025-10-08 11:45:28,715 - iesa_wisdom_mining - INFO - IESA Wisdom Mining page loaded
+2025-10-08 11:45:28,715 - iesa_prediction_engine - INFO - IESA Prediction Engine page loaded
+2025-10-08 11:45:28,715 - iesa_wisdom_mining - INFO - IESA Wisdom Mining page loaded
+2025-10-08 11:45:28,715 - iesa_prediction_engine - INFO - IESA Prediction Engine page loaded
+2025-10-08 11:45:28,715 - iesa_prediction_engine - INFO - IESA Prediction Engine page loaded
+2025-10-08 11:45:28,715 - iesa_prediction_engine - INFO - IESA Prediction Engine page loaded
+2025-10-08 11:45:28,718 - iesa_wisdom_mining - INFO - User navigated to Prediction Engine page from Wisdom Mining
+2025-10-08 11:45:28,718 - iesa_wisdom_mining - INFO - User navigated to Prediction Engine page from Wisdom Mining
+2025-10-08 11:45:28,718 - iesa_wisdom_mining - INFO - User navigated to Prediction Engine page from Wisdom Mining
+2025-10-08 11:45:28,718 - iesa_wisdom_mining - INFO - User navigated to Prediction Engine page from Wisdom Mining
+2025-10-08 11:45:28,718 - iesa_wisdom_mining - INFO - User navigated to Prediction Engine page from Wisdom Mining
+2025-10-08 11:45:28,718 - iesa_wisdom_mining - INFO - User navigated to Prediction Engine page from Wisdom Mining
+2025-10-08 11:45:28,721 - iesa_prediction_engine - INFO - User navigated to Data Planner page from Prediction Engine
+2025-10-08 11:45:28,721 - iesa_prediction_engine - INFO - User navigated to Data Planner page from Prediction Engine
+2025-10-08 11:45:28,721 - iesa_prediction_engine - INFO - User navigated to Data Planner page from Prediction Engine
+2025-10-08 11:45:28,721 - iesa_prediction_engine - INFO - User navigated to Data Planner page from Prediction Engine
+2025-10-08 11:45:28,721 - iesa_prediction_engine - INFO - User navigated to Data Planner page from Prediction Engine
+2025-10-08 11:45:28,721 - iesa_prediction_engine - INFO - User navigated to Data Planner page from Prediction Engine
+2025-10-08 11:45:28,721 - iesa_prediction_engine - INFO - User navigated to Data Planner page from Prediction Engine
+2025-10-08 19:26:23,402 - iesa_prediction_engine - INFO - IESA Prediction Engine page loaded
+2025-10-08 19:26:23,402 - iesa_prediction_engine - INFO - IESA Prediction Engine page loaded
+2025-10-08 19:26:23,402 - iesa_prediction_engine - INFO - IESA Prediction Engine page loaded
+2025-10-08 19:26:23,402 - iesa_prediction_engine - INFO - IESA Prediction Engine page loaded
+2025-10-08 19:26:23,402 - iesa_prediction_engine - INFO - IESA Prediction Engine page loaded
+2025-10-08 19:26:23,402 - iesa_prediction_engine - INFO - IESA Prediction Engine page loaded
+2025-10-08 19:26:23,402 - iesa_prediction_engine - INFO - IESA Prediction Engine page loaded
+2025-10-08 19:26:23,402 - iesa_prediction_engine - INFO - IESA Prediction Engine page loaded
+2025-10-08 19:26:23,408 - iesa_prediction_engine - INFO - User navigated to Data Planner page from Prediction Engine
+2025-10-08 19:26:23,408 - iesa_prediction_engine - INFO - User navigated to Data Planner page from Prediction Engine
+2025-10-08 19:26:23,408 - iesa_prediction_engine - INFO - User navigated to Data Planner page from Prediction Engine
+2025-10-08 19:26:23,408 - iesa_prediction_engine - INFO - User navigated to Data Planner page from Prediction Engine
+2025-10-08 19:26:23,408 - iesa_prediction_engine - INFO - User navigated to Data Planner page from Prediction Engine
+2025-10-08 19:26:23,408 - iesa_prediction_engine - INFO - User navigated to Data Planner page from Prediction Engine
+2025-10-08 19:26:23,408 - iesa_prediction_engine - INFO - User navigated to Data Planner page from Prediction Engine
+2025-10-08 19:26:23,408 - iesa_prediction_engine - INFO - User navigated to Data Planner page from Prediction Engine
+2025-10-08 19:26:23,947 - iesa_wisdom_mining - INFO - IESA Wisdom Mining page loaded
+2025-10-08 19:26:23,947 - iesa_wisdom_mining - INFO - IESA Wisdom Mining page loaded
+2025-10-08 19:26:23,947 - iesa_wisdom_mining - INFO - IESA Wisdom Mining page loaded
+2025-10-08 19:26:23,947 - iesa_wisdom_mining - INFO - IESA Wisdom Mining page loaded
+2025-10-08 19:26:23,947 - iesa_wisdom_mining - INFO - IESA Wisdom Mining page loaded
+2025-10-08 19:26:23,947 - iesa_wisdom_mining - INFO - IESA Wisdom Mining page loaded
+2025-10-08 19:26:23,947 - iesa_wisdom_mining - INFO - IESA Wisdom Mining page loaded
+2025-10-08 19:26:23,950 - iesa_wisdom_mining - INFO - User navigated to Prediction Engine page from Wisdom Mining
+2025-10-08 19:26:23,950 - iesa_wisdom_mining - INFO - User navigated to Prediction Engine page from Wisdom Mining
+2025-10-08 19:26:23,950 - iesa_wisdom_mining - INFO - User navigated to Prediction Engine page from Wisdom Mining
+2025-10-08 19:26:23,950 - iesa_wisdom_mining - INFO - User navigated to Prediction Engine page from Wisdom Mining
+2025-10-08 19:26:23,950 - iesa_wisdom_mining - INFO - User navigated to Prediction Engine page from Wisdom Mining
+2025-10-08 19:26:23,950 - iesa_wisdom_mining - INFO - User navigated to Prediction Engine page from Wisdom Mining
+2025-10-08 19:26:23,950 - iesa_wisdom_mining - INFO - User navigated to Prediction Engine page from Wisdom Mining
+2025-10-08 19:26:30,952 - iesa_prediction_engine - INFO - IESA Prediction Engine page loaded
+2025-10-08 19:26:31,184 - iesa_prediction_engine - INFO - Fetched tables for sidebar: ['annual_electricity_data', 'electricity_consumption_by_sector_gwh', 'energy_supply_and_consumption_analysis', 'final_energy_consumption_by_source_toe', 'natural_gas_production_and_consumption', 'primary_energy_supplies_by_source_toe', 'province_wise_electricity_consumption_gwh', 'province_wise_energy_consumption', 'provincial_energy_distribution_and_transmission_losses', 'scenario_definitions', 'sector_wise_energy_consumption', 'total_imports_lng', 'total_proved_reserves', 'user_data']
+2025-10-08 19:26:31,186 - iesa_prediction_engine - INFO - User selected table: annual_electricity_data
+2025-10-08 19:26:32,179 - iesa_data_planner - INFO - IESA Data Planner page loaded
+2025-10-08 19:26:32,488 - iesa_data_planner - INFO - Fetched tables: ['annual_electricity_data', 'electricity_consumption_by_sector_gwh', 'energy_supply_and_consumption_analysis', 'final_energy_consumption_by_source_toe', 'natural_gas_production_and_consumption', 'primary_energy_supplies_by_source_toe', 'province_wise_electricity_consumption_gwh', 'province_wise_energy_consumption', 'provincial_energy_distribution_and_transmission_losses', 'scenario_definitions', 'sector_wise_energy_consumption', 'total_imports_lng', 'total_proved_reserves', 'user_data']
+2025-10-08 19:26:32,503 - iesa_data_planner - INFO - Fetched data for table: annual_electricity_data, 17 rows
+2025-10-08 19:26:34,084 - iesa_prediction_engine - INFO - IESA Prediction Engine page loaded
+2025-10-08 19:26:34,314 - iesa_prediction_engine - INFO - Fetched tables for sidebar: ['annual_electricity_data', 'electricity_consumption_by_sector_gwh', 'energy_supply_and_consumption_analysis', 'final_energy_consumption_by_source_toe', 'natural_gas_production_and_consumption', 'primary_energy_supplies_by_source_toe', 'province_wise_electricity_consumption_gwh', 'province_wise_energy_consumption', 'provincial_energy_distribution_and_transmission_losses', 'scenario_definitions', 'sector_wise_energy_consumption', 'total_imports_lng', 'total_proved_reserves', 'user_data']
+2025-10-08 19:26:34,322 - iesa_prediction_engine - INFO - User selected table: annual_electricity_data
+2025-10-08 19:34:50,445 - iesa_prediction_engine - INFO - IESA Prediction Engine page loaded
+2025-10-08 19:34:50,445 - iesa_prediction_engine - INFO - IESA Prediction Engine page loaded
+2025-10-08 19:34:50,445 - iesa_prediction_engine - INFO - IESA Prediction Engine page loaded
+2025-10-08 19:34:50,445 - iesa_prediction_engine - INFO - IESA Prediction Engine page loaded
+2025-10-08 19:34:50,445 - iesa_prediction_engine - INFO - IESA Prediction Engine page loaded
+2025-10-08 19:34:50,445 - iesa_prediction_engine - INFO - IESA Prediction Engine page loaded
+2025-10-08 19:34:50,445 - iesa_prediction_engine - INFO - IESA Prediction Engine page loaded
+2025-10-08 19:34:50,445 - iesa_prediction_engine - INFO - IESA Prediction Engine page loaded
+2025-10-08 19:34:50,445 - iesa_prediction_engine - INFO - IESA Prediction Engine page loaded
+2025-10-08 19:34:50,453 - iesa_prediction_engine - INFO - User navigated to Data Planner page from Prediction Engine
+2025-10-08 19:34:50,453 - iesa_prediction_engine - INFO - User navigated to Data Planner page from Prediction Engine
+2025-10-08 19:34:50,453 - iesa_prediction_engine - INFO - User navigated to Data Planner page from Prediction Engine
+2025-10-08 19:34:50,453 - iesa_prediction_engine - INFO - User navigated to Data Planner page from Prediction Engine
+2025-10-08 19:34:50,453 - iesa_prediction_engine - INFO - User navigated to Data Planner page from Prediction Engine
+2025-10-08 19:34:50,453 - iesa_prediction_engine - INFO - User navigated to Data Planner page from Prediction Engine
+2025-10-08 19:34:50,453 - iesa_prediction_engine - INFO - User navigated to Data Planner page from Prediction Engine
+2025-10-08 19:34:50,453 - iesa_prediction_engine - INFO - User navigated to Data Planner page from Prediction Engine
+2025-10-08 19:34:50,453 - iesa_prediction_engine - INFO - User navigated to Data Planner page from Prediction Engine
+2025-10-08 19:34:51,934 - iesa_wisdom_mining - INFO - IESA Wisdom Mining page loaded
+2025-10-08 19:34:51,934 - iesa_wisdom_mining - INFO - IESA Wisdom Mining page loaded
+2025-10-08 19:34:51,934 - iesa_wisdom_mining - INFO - IESA Wisdom Mining page loaded
+2025-10-08 19:34:51,934 - iesa_wisdom_mining - INFO - IESA Wisdom Mining page loaded
+2025-10-08 19:34:51,934 - iesa_wisdom_mining - INFO - IESA Wisdom Mining page loaded
+2025-10-08 19:34:51,934 - iesa_wisdom_mining - INFO - IESA Wisdom Mining page loaded
+2025-10-08 19:34:51,934 - iesa_wisdom_mining - INFO - IESA Wisdom Mining page loaded
+2025-10-08 19:34:51,934 - iesa_wisdom_mining - INFO - IESA Wisdom Mining page loaded
+2025-10-08 19:34:51,938 - iesa_wisdom_mining - INFO - User navigated to Prediction Engine page from Wisdom Mining
+2025-10-08 19:34:51,938 - iesa_wisdom_mining - INFO - User navigated to Prediction Engine page from Wisdom Mining
+2025-10-08 19:34:51,938 - iesa_wisdom_mining - INFO - User navigated to Prediction Engine page from Wisdom Mining
+2025-10-08 19:34:51,938 - iesa_wisdom_mining - INFO - User navigated to Prediction Engine page from Wisdom Mining
+2025-10-08 19:34:51,938 - iesa_wisdom_mining - INFO - User navigated to Prediction Engine page from Wisdom Mining
+2025-10-08 19:34:51,938 - iesa_wisdom_mining - INFO - User navigated to Prediction Engine page from Wisdom Mining
+2025-10-08 19:34:51,938 - iesa_wisdom_mining - INFO - User navigated to Prediction Engine page from Wisdom Mining
+2025-10-08 19:34:51,938 - iesa_wisdom_mining - INFO - User navigated to Prediction Engine page from Wisdom Mining
+2025-10-08 19:34:56,757 - iesa_data_planner - INFO - IESA Data Planner page loaded
+2025-10-08 19:34:57,048 - iesa_data_planner - INFO - Fetched tables: ['annual_electricity_data', 'electricity_consumption_by_sector_gwh', 'energy_supply_and_consumption_analysis', 'final_energy_consumption_by_source_toe', 'natural_gas_production_and_consumption', 'primary_energy_supplies_by_source_toe', 'province_wise_electricity_consumption_gwh', 'province_wise_energy_consumption', 'provincial_energy_distribution_and_transmission_losses', 'scenario_definitions', 'sector_wise_energy_consumption', 'total_imports_lng', 'total_proved_reserves', 'user_data']
+2025-10-08 19:34:57,062 - iesa_data_planner - INFO - Fetched data for table: annual_electricity_data, 17 rows
+2025-10-08 19:35:00,398 - iesa_prediction_engine - INFO - IESA Prediction Engine page loaded
+2025-10-08 19:35:00,513 - iesa_prediction_engine - INFO - Fetched tables for sidebar: ['annual_electricity_data', 'electricity_consumption_by_sector_gwh', 'energy_supply_and_consumption_analysis', 'final_energy_consumption_by_source_toe', 'natural_gas_production_and_consumption', 'primary_energy_supplies_by_source_toe', 'province_wise_electricity_consumption_gwh', 'province_wise_energy_consumption', 'provincial_energy_distribution_and_transmission_losses', 'scenario_definitions', 'sector_wise_energy_consumption', 'total_imports_lng', 'total_proved_reserves', 'user_data']
+2025-10-08 19:35:00,514 - iesa_prediction_engine - INFO - User selected table: annual_electricity_data

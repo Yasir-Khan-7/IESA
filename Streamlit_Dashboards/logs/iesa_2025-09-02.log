@@ -1,0 +1,253 @@
+2025-09-02 09:06:11,054 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 09:06:11,682 - iesa_dashboard - ERROR - Error fetching dashboard metrics: 1146 (42S02): Table 'iesa_db.total_energy' doesn't exist
+2025-09-02 09:06:11,706 - iesa_dashboard - ERROR - Error fetching energy mix data: name 'pd' is not defined
+2025-09-02 09:06:12,076 - iesa_dashboard - ERROR - Error fetching energy trend data: name 'pd' is not defined
+2025-09-02 13:59:53,820 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 13:59:53,820 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 13:59:54,293 - iesa_dashboard - ERROR - Error fetching dashboard metrics: 1146 (42S02): Table 'iesa_db.total_energy' doesn't exist
+2025-09-02 13:59:54,293 - iesa_dashboard - ERROR - Error fetching dashboard metrics: 1146 (42S02): Table 'iesa_db.total_energy' doesn't exist
+2025-09-02 13:59:54,327 - iesa_dashboard - ERROR - Error fetching energy mix data: name 'pd' is not defined
+2025-09-02 13:59:54,327 - iesa_dashboard - ERROR - Error fetching energy mix data: name 'pd' is not defined
+2025-09-02 13:59:54,654 - iesa_dashboard - ERROR - Error fetching energy trend data: name 'pd' is not defined
+2025-09-02 13:59:54,654 - iesa_dashboard - ERROR - Error fetching energy trend data: name 'pd' is not defined
+2025-09-02 13:59:58,891 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 13:59:58,891 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 13:59:58,891 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 14:00:01,413 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 14:00:01,413 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 14:00:01,413 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 14:00:01,413 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 14:00:04,297 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 14:00:04,297 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 14:00:04,297 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 14:00:04,297 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 14:00:04,297 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 14:00:04,300 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 14:00:04,300 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 14:00:04,300 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 14:00:04,300 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 14:00:04,300 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 14:00:09,967 - iesa_wisdom_mining - INFO - IESA Wisdom Mining page loaded
+2025-09-02 14:00:25,296 - iesa_wisdom_mining - INFO - IESA Wisdom Mining page loaded
+2025-09-02 14:00:25,296 - iesa_wisdom_mining - INFO - IESA Wisdom Mining page loaded
+2025-09-02 14:01:22,081 - iesa_wisdom_mining - INFO - IESA Wisdom Mining page loaded
+2025-09-02 14:01:22,081 - iesa_wisdom_mining - INFO - IESA Wisdom Mining page loaded
+2025-09-02 14:01:22,081 - iesa_wisdom_mining - INFO - IESA Wisdom Mining page loaded
+2025-09-02 15:52:19,327 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 15:52:19,327 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 15:52:19,327 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 15:52:19,327 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 15:52:19,327 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 15:52:19,327 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 15:52:19,398 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 15:52:19,398 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 15:52:19,398 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 15:52:19,398 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 15:52:19,398 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 15:52:19,398 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 20:30:11,601 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 20:30:11,601 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 20:30:11,601 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 20:30:11,601 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 20:30:11,601 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 20:30:11,601 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 20:30:11,601 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 20:30:11,638 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 20:30:11,638 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 20:30:11,638 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 20:30:11,638 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 20:30:11,638 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 20:30:11,638 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 20:30:11,638 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 20:30:17,904 - iesa_wisdom_mining - INFO - IESA Wisdom Mining page loaded
+2025-09-02 20:30:26,344 - iesa_wisdom_mining - INFO - IESA Wisdom Mining page loaded
+2025-09-02 21:15:56,357 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 21:15:56,357 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 21:15:56,357 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 21:15:56,357 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 21:15:56,357 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 21:15:56,357 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 21:15:56,357 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 21:15:56,357 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 21:15:56,367 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 21:15:56,367 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 21:15:56,367 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 21:15:56,367 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 21:15:56,367 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 21:15:56,367 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 21:15:56,367 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 21:15:56,367 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 21:16:05,305 - iesa_wisdom_mining - INFO - IESA Wisdom Mining page loaded
+2025-09-02 22:13:13,396 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 22:13:13,396 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 22:13:13,396 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 22:13:13,396 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 22:13:13,396 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 22:13:13,396 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 22:13:13,396 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 22:13:13,396 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 22:13:13,396 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 22:13:13,450 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 22:13:13,450 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 22:13:13,450 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 22:13:13,450 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 22:13:13,450 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 22:13:13,450 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 22:13:13,450 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 22:13:13,450 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 22:13:13,450 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 22:13:24,821 - iesa_wisdom_mining - INFO - IESA Wisdom Mining page loaded
+2025-09-02 23:35:29,547 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 23:35:29,547 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 23:35:29,547 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 23:35:29,547 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 23:35:29,547 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 23:35:29,547 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 23:35:29,547 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 23:35:29,547 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 23:35:29,547 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 23:35:29,547 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 23:35:29,556 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 23:35:29,556 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 23:35:29,556 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 23:35:29,556 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 23:35:29,556 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 23:35:29,556 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 23:35:29,556 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 23:35:29,556 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 23:35:29,556 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 23:35:29,556 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 23:51:11,083 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 23:51:11,083 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 23:51:11,083 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 23:51:11,083 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 23:51:11,083 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 23:51:11,083 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 23:51:11,083 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 23:51:11,083 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 23:51:11,083 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 23:51:11,083 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 23:51:11,083 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-02 23:51:11,091 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 23:51:11,091 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 23:51:11,091 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 23:51:11,091 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 23:51:11,091 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 23:51:11,091 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 23:51:11,091 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 23:51:11,091 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 23:51:11,091 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 23:51:11,091 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 23:51:11,091 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-02 23:51:15,662 - iesa_wisdom_mining - INFO - IESA Wisdom Mining page loaded
+2025-09-02 23:51:18,792 - iesa_wisdom_mining - INFO - IESA Wisdom Mining page loaded
+2025-09-03 00:11:33,245 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 00:11:33,245 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 00:11:33,245 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 00:11:33,245 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 00:11:33,245 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 00:11:33,245 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 00:11:33,245 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 00:11:33,245 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 00:11:33,245 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 00:11:33,245 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 00:11:33,245 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 00:11:33,286 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-03 00:11:33,286 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-03 00:11:33,286 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-03 00:11:33,286 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-03 00:11:33,286 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-03 00:11:33,286 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-03 00:11:33,286 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-03 00:11:33,286 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-03 00:11:33,286 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-03 00:11:33,286 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-03 00:11:33,286 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-03 01:10:00,986 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 01:10:00,986 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 01:10:00,986 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 01:10:00,986 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 01:10:00,986 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 01:10:00,986 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 01:10:00,986 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 01:10:00,986 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 01:10:00,986 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 01:10:00,986 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 01:10:00,986 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 01:10:00,994 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-03 01:10:00,994 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-03 01:10:00,994 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-03 01:10:00,994 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-03 01:10:00,994 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-03 01:10:00,994 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-03 01:10:00,994 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-03 01:10:00,994 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-03 01:10:00,994 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-03 01:10:00,994 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-03 01:10:00,994 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-03 07:17:52,154 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 07:17:52,154 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 07:17:52,154 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 07:17:52,154 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 07:17:52,154 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 07:17:52,154 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 07:17:52,154 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 07:17:52,154 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 07:17:52,154 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 07:17:52,154 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 07:17:52,154 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 07:17:52,167 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-03 07:17:52,167 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-03 07:17:52,167 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-03 07:17:52,167 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-03 07:17:52,167 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-03 07:17:52,167 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-03 07:17:52,167 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-03 07:17:52,167 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-03 07:17:52,167 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-03 07:17:52,167 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-03 07:17:52,167 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-03 08:35:51,265 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 08:35:51,265 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 08:35:51,265 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 08:35:51,265 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 08:35:51,265 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 08:35:51,265 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 08:35:51,265 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 08:35:51,265 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 08:35:51,265 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 08:35:51,265 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 08:35:51,265 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 08:35:51,307 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-03 08:35:51,307 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-03 08:35:51,307 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-03 08:35:51,307 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-03 08:35:51,307 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-03 08:35:51,307 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-03 08:35:51,307 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-03 08:35:51,307 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-03 08:35:51,307 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-03 08:35:51,307 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-03 08:35:51,307 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-03 10:31:54,129 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 10:31:54,129 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 10:31:54,129 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 10:31:54,129 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 10:31:54,129 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 10:31:54,129 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 10:31:54,129 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 10:31:54,129 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 10:31:54,129 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 10:31:54,129 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 10:31:54,129 - iesa_dashboard - INFO - IESA Dashboard page loaded
+2025-09-03 10:31:54,137 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-03 10:31:54,137 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-03 10:31:54,137 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-03 10:31:54,137 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-03 10:31:54,137 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-03 10:31:54,137 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-03 10:31:54,137 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-03 10:31:54,137 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-03 10:31:54,137 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-03 10:31:54,137 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
+2025-09-03 10:31:54,137 - iesa_dashboard - INFO - User navigated to Wisdom Mining page from Dashboard
